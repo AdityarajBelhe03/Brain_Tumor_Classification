@@ -36,7 +36,6 @@ Keywords: Deep learning, Magnetic resonance imaging, Computational modeling, Tra
     ```bash
     pip install -r requirements.txt
     ```
-    ```
 
 ## Research Internship
 
